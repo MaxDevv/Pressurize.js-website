@@ -6,7 +6,7 @@
     <span class="title">Pressurize.Js</span>
     <div class="links">
         <a href="#examples">Demos/Examples</a>
-        <a href="https://github.com/MaxDevv/pressurize.js?tab=readme-ov-file#installation">Docs</a>
+        <a href="https://github.com/MaxDevv/Pressurize.js/blob/main/README.md#installation">Docs</a>
         <a href="https://github.com/MaxDevv/pressurize.js">Github</a>
     </div>
 </div>
