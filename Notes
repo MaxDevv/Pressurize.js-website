@@ -1,0 +1,2 @@
+Rough description: 
+    This is pressurize.js one of my greatest projects of all time what it does is uses the built in accelerometer and gyroscopic features of an of a mobile device and it calculates the amount of relative pressure that exerted with every single touch. It's the first of its kind and it's the first JavaScript library That allows users to detect the pressure of devices without the need for built in JavaScript pressure sensors like 3-D touch, i hope this will be useful to all webdevs :D.
