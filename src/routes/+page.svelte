@@ -51,7 +51,7 @@
                 requestAndStart();
                 setTimeout(() => {
                     elementValues.boxDemoPressure = getPressure();
-                }, 75*2);
+                }, 75*1.75);
                 // dumbPressureTest();
 
             }}>Pressure: {elementValues.boxDemoPressure.toFixed(2)}</button>
@@ -167,6 +167,10 @@
         padding-bottom: 3em;
         border-top: var(--paynes-gray) 0.125em solid;
         text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.0625);
+
+        button {
+            user-select: none;
+        }
     }
 
     .color-demo {
